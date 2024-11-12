@@ -27,3 +27,16 @@ puts "-----"
 puts("the sum of a + b = c")
 puts("the sum of #{a} + #{b} = #{c}")
 puts("the sum of a (#{a}) + b (#{b}) = c (#{c})")
+
+#----Functions------
+puts
+
+def add(a,b)
+
+    puts "function called here"
+    c = a+b
+    return c
+end
+
+puts add(9,4)
+puts "#{add(234,24)} --- adding with text in puts"
