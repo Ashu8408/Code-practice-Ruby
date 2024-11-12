@@ -1,1 +1,1 @@
-<h1>Code-Practice-Ruvy</h1>
+<h1>Code-Practice-Ruby</h1>
