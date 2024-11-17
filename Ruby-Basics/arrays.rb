@@ -191,7 +191,6 @@ Aspect	                    select	                                     reject
 Behavior	        Keeps elements that return true.	    Excludes elements that return true.
 Condition	        Elements satisfying the condition.	    Elements not satisfying the condition.
 Returned Array	    Includes matching elements.	Excludes    matching elements.
-Example Condition	            `{	                            e
 
 =end
 
